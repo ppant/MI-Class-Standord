@@ -24,7 +24,7 @@ centroids = zeros(K, n);
 %               centroid i.
 %
 % Note: You can use a for-loop over the centroids to compute this.
-%
+% ppant: edited code
 % computing centriods loop shall return new centroid where X is the dataset and K is the range
 % return is the matrix of centroids 
 for i = 1:K

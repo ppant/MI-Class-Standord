@@ -19,7 +19,7 @@ idx = zeros(size(X,1), 1);
 %               range 1..K
 %
 % Note: You can use a for-loop over the examples to compute this.
-%
+% ppant: edited
 % find the centeroid membership .. returns closest centroid in example set
 m = size(X,1)
 % looing over every example 
