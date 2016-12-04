@@ -1,0 +1,30 @@
+Intro:
+Machine learning is grew out of AI
+New capability for computers
+Ex:
+
+- Database mining -- large datasets from growth of automation/web e.g.; web click data, medical records, biology, engineering
+- Application can't program by hand -- autonomous helicoper, handwriting recognition, NLP (learning by text parsing), computer vision (learn by parsing images)
+- Self-customizing programs -- Amazon, netflix recommendation
+- Understanding human learning (brain, real AI)
+
+What is machine learning?
+"A computer program is said to learn from experience E with respect to some task T, and some performance measure P, if its performance on T, as measured by P, improves with experience E"
+SPAM mail filter is one of the basic example, in this case computer program learns from the action we take on the mail (if we check it as a spam) so program learns from      our selection and next time try to put in the spam
+Machine learning algorithms:
+
+- Supervised learning
+- unsupervised learning
+
+others:
+
+- Reinforcement learning
+- recommender systems
+
+Supervised learning
+In supervised learning "right answers" given
+housing price prediction
+this is a kind of regression problem. Regression means we get continuous output values. we can predict continuous value output (price)
+breast-cancer study
+These kind of problems comes under classification problem. We get a discrete value output.
+Unsupervised learning
