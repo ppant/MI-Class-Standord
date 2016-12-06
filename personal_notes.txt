@@ -66,4 +66,17 @@ How to represent h?
 h(x) = theta 0 + theta 1(x)
 
 we we plot x and y, this function is a linear function
-This is called linear regression with one variable which is x or univariate linear regression 
+This is called linear regression with one variable which is x or univariate linear regression
+==============
+Cost function
+==============
+we define something called cost function, This will figure out how to fit the best straight line to our data.
+We have training set and hypothesis h(x) = theta 0 + theta 1 x, here theta's are called parameters. Question is how to choose the values of theta 1 and theta 0?
+So in linear regression we have a training set and we want do is come with the values for parameters theta 0 and theta 1 so the straight line we get out of this fits well with the data. good fit to data. So, choose theta 0 and theta 1 so that h(x) is close to y to our training example (x,y).   
+Mathematically, in linear regression we will like to optimize theta 0 and theta 1
+square difference between the predicted price of the house and the price at house is actually sold.
+Just to summarize, "Find me the values of theta 0 and theta 1 that cause hypothesis function h(x) = theta 0 + theta 1 x
+Minimize theta 0 and theta 1, J(theta 0, theta 1) is called cost function
+J(theta 0, theta 1) = 1/2m (h(x)-y)2
+     This cost function is also called Squared error function, this is most commonly used for regression problems. 
+
