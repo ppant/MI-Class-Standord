@@ -20,13 +20,22 @@ others:
 
 - Reinforcement learning
 - recommender systems
-
+===========================
 Supervised learning
 In supervised learning "right answers" given
 housing price prediction
 this is a kind of regression problem. Regression means we get continuous output values. we can predict continuous value output (price)
 breast-cancer study
 These kind of problems comes under classification problem. We get a discrete value output.
+============================
 Unsupervised learning
 unlike supervised learning we have not given any data point/right answers,  in fact we have just given some data which doesn't have no label, and asked to look for some structure so unsupervised algorithms tries to break the data in clusters so this is also called a clustering algorithm. e.g.; clustering example is Google news, understanding gnome data, large computer clusters, social network analysis, cock tail party algorithm (separating audio sources)  
-There is great way to write/optimize the learning algorithms using Octave/Matlab programming environment. Using these these env can reduce it to few lines of code. These env are very good in prototype of the learning algorithms. like svd linear algebra function can be implemented much easier and faster using octave/matlab for prototyping than C++/Java 
+There is great way to write/optimize the learning algorithms using Octave/Matlab programming environment. Using these these env can reduce it to few lines of code. These env are very good in prototype of the learning algorithms. like svd linear algebra function can be implemented much easier and faster using octave/matlab for prototyping than C++/Java.
+Linear regression with one variable
+=============================
+Model representation
+Notation
+m = no of training examples or can say no of rows in a table
+x's = "input" variable/features
+y's = "output" variable/"target" varaiable     
+
