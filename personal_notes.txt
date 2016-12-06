@@ -49,3 +49,21 @@ m = no of training examples or can say no of rows in a table
 x's = "input" variable/features
 y's = "output" variable/"target" varaiable     
 
+(x,y) - Single training example 
+(x(i), y(i)) - ith training example, index of ith row of the table
+
+example:
+Training set -> Learning algorithm -> h (hypothesis)
+
+                      size of the house -> h (hypothesis) -> estimated price 
+
+h is a function which maps x's to y's 
+* hypothesis is not a great name for this function as this was used since initial days of MI so thats why is still there.
+
+Designing a learning algorithms we need to decide how to design this function hypothesis.
+
+How to represent h?
+h(x) = theta 0 + theta 1(x)
+
+we we plot x and y, this function is a linear function
+This is called linear regression with one variable which is x or univariate linear regression 
