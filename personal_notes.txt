@@ -78,5 +78,5 @@ square difference between the predicted price of the house and the price at hous
 Just to summarize, "Find me the values of theta 0 and theta 1 that cause hypothesis function h(x) = theta 0 + theta 1 x
 Minimize theta 0 and theta 1, J(theta 0, theta 1) is called cost function
 J(theta 0, theta 1) = 1/2m (h(x)-y)2
-     This cost function is also called Squared error function, this is most commonly used for regression problems. 
+     This cost function is also called Squared error function, which is most commonly used for regression problems. 
 
