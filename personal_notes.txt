@@ -52,7 +52,7 @@ y's = "output" variable/"target" varaiable
 (x,y) - Single training example 
 (x(i), y(i)) - ith training example, index of ith row of the table
 
-example:
+Example:
 Training set -> Learning algorithm -> h (hypothesis)
 
                       size of the house -> h (hypothesis) -> estimated price 
@@ -67,6 +67,7 @@ h(x) = theta 0 + theta 1(x)
 
 we we plot x and y, this function is a linear function
 This is called linear regression with one variable which is x or univariate linear regression
+
 ==============
 Cost function
 ==============
