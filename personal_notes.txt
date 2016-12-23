@@ -71,7 +71,7 @@ This is called linear regression with one variable which is x or univariate line
 ==============
 Cost function
 ==============
-we define something called cost function, This will figure out how to fit the best straight line to our data.
+The objective of linear regression is to minimize the cost function. We define something called cost function, This will figure out how to fit the best straight line to our data.
 We have training set and hypothesis h(x) = theta 0 + theta 1 x, here theta's are called parameters. Question is how to choose the values of theta 1 and theta 0?
 So in linear regression we have a training set and we want do is come with the values for parameters theta 0 and theta 1 so the straight line we get out of this fits well with the data. good fit to data. So, choose theta 0 and theta 1 so that h(x) is close to y to our training example (x,y).   
 Mathematically, in linear regression we will like to optimize theta 0 and theta 1
