@@ -1,6 +1,6 @@
-=======
-Intro:
-=======
+=============
+Introduction:
+=============
 Machine learning is grew out of AI
 New capability for computers
 Ex:
