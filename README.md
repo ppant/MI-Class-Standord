@@ -1,6 +1,6 @@
-# MI-Class-Standord
+# Machine Learning Class Standord
 
-Course material, programming exercises and other resources of Andrew NG's Machine learning class (May-Aug 2016)
+Course material, programming exercises and other resources I found useful from Andrew NG's famous Machine learning course class (May-Aug 2016)
 
 * Earned Course Certificate PDF 
 * Added Octave tutorial
@@ -15,3 +15,5 @@ Course material, programming exercises and other resources of Andrew NG's Machin
   principal component analysis (PCA) to and a low-dimensional representation of face images.
 * Programming exercises 8: Source code for Anomaly detection algorithm and application to detect failing servers on 
   a network. Also use collaborative fltering to build a recommender system for movies.
+  
+  Course website: https://www.coursera.org/learn/machine-learning
